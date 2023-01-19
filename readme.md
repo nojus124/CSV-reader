@@ -1,6 +1,6 @@
 
-#Made by Nojus Petrauskas
-#Using REACT, SPRING BOOT(GRADLE - GROOVY), H2
+# Made by Nojus Petrauskas
+# Using REACT, SPRING BOOT(GRADLE - GROOVY), H2
 
 FrontEnd start:
 npm install
@@ -12,7 +12,7 @@ Make sure you have Java 17 jdk.
 Be in main folder where build.gadle file is.
 Open cmd.exe in that folder.\
 
-#To Run it.
+# To Run it.
 
 Use command "gradlew -Dorg.gradle.java.home="C:\\PATH\\TO\\jdk-17" bootRun"
 
