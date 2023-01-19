@@ -1,7 +1,7 @@
 
 # Made by Nojus Petrauskas
 # Using REACT, SPRING BOOT(GRADLE - GROOVY), H2
-Reads data and imports it in H2 database, then every time you add something it stays in local storage database.
+Reads data and imports it in H2 database, then every time you add something it stays in local server storage database.
 
 # FrontEnd start:
 ```
